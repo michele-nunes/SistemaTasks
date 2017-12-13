@@ -1,0 +1,12 @@
+[1211/221458.389:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acesso negado. (0x5)
+[1211/221458.577:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[1211/221503.012:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1211/233154.702:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acesso negado. (0x5)
+[1211/233157.296:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[1211/233157.296:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1211/234843.365:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acesso negado. (0x5)
+[1211/234845.887:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[1211/234845.915:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1211/235226.751:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acesso negado. (0x5)
+[1211/235226.845:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[1211/235228.918:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
